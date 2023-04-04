@@ -4,3 +4,7 @@ Mar 28, 2023 10:41:22 PM Sem2.cw.Task3 write
 INFO: aaaaaaaaa
 Mar 28, 2023 10:41:22 PM Sem2.cw.Task3 write
 INFO: Error
+Mar 30, 2023 9:38:05 PM Sem2.cw.Task3 write
+INFO: aaaaaaaaa
+Mar 30, 2023 9:38:06 PM Sem2.cw.Task3 write
+INFO: Error
