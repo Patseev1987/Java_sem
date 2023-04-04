@@ -34,8 +34,11 @@ public class BogdanStack {
 
     public BogdanStack push(int number) {
         if (isFull()) {
+            addCapasity();
         }
-        return BogdanStack;
+
+        array[++top] = number;
+        return this;
         }
 
         public boolean empty() {
